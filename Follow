@@ -10,7 +10,7 @@ int main()
  int i;
  int choice;
  char c,ch;
- printf("Enter the no.of productions: ");
+ printf("Enter the number of productions: ");
 scanf("%d", &n);
  printf(" Enter %d productions\nProduction with multiple terms should be give as separate productions \n", n);
  for(i=0;i<n;i++)
